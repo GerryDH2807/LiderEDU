@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.721f5816.css",
+    "main.js": "/static/js/main.d0b589f1.js",
+    "static/js/453.d0ad1586.chunk.js": "/static/js/453.d0ad1586.chunk.js",
+    "static/media/FondoLogin.png": "/static/media/FondoLogin.3ae7cbe156451b55a2e9.png",
+    "static/media/Landing.png": "/static/media/Landing.f5e7805a3ad1fe3641ea.png",
+    "static/media/vapos1.png": "/static/media/vapos1.8e1e6c3aabdc9fe9907b.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Pegassi.png": "/static/media/Pegassi.298b90a86222c896e96f.png",
+    "static/media/Usuario.png": "/static/media/Usuario.1675a63c584c7a700118.png",
+    "static/media/CoinEdu.png": "/static/media/CoinEdu.21a519193cdd8e6cf8fc.png",
+    "static/media/Logo.png": "/static/media/Logo.ce825f678e2e675310de.png",
+    "static/media/lungs-fill.svg": "/static/media/lungs-fill.915d26635e9ddf63c6db827546321538.svg",
+    "index.html": "/index.html",
+    "static/media/house-fill.svg": "/static/media/house-fill.4a7c8824552f6a638b99e34ffc398727.svg",
+    "static/media/primerCua.svg": "/static/media/primerCua.ae07c754e5b8cc0cbb055fd23c254310.svg",
+    "static/media/person-circle.svg": "/static/media/person-circle.5accdf88076abf4808574ca5b62e3587.svg",
+    "main.721f5816.css.map": "/static/css/main.721f5816.css.map",
+    "main.d0b589f1.js.map": "/static/js/main.d0b589f1.js.map",
+    "453.d0ad1586.chunk.js.map": "/static/js/453.d0ad1586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721f5816.css",
+    "static/js/main.d0b589f1.js"
+  ]
+}
